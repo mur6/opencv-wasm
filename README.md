@@ -30,4 +30,6 @@ emmake make
 
 http://localhost:8000/main.html
 
-を閲覧すると、実行結果が表示される。
+を閲覧すると、
+![result](https://user-images.githubusercontent.com/7417550/106248323-2a37b180-6254-11eb-9187-ee2ab020519f.png)
+このような実行結果が表示される。
