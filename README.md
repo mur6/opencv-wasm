@@ -13,7 +13,9 @@ asm.js をビルドする場合:
 > emcmake python ./opencv/platforms/js/build_js.py build_js
 -->
 
-> emcmake python ./opencv/platforms/js/build_js.py build_wasm --build_wasm
+```sh
+emcmake python ./opencv/platforms/js/build_js.py build_wasm --build_wasm
+```
 
 ## C++ソースのビルド
 ```sh
@@ -27,3 +29,5 @@ emmake make
 として
 
 http://localhost:8000/main.html
+
+を閲覧すると、実行結果が表示される。
